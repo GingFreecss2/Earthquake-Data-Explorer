@@ -6,13 +6,22 @@
 
 ---
 
+
 ## Table of Contents
 
 - [Earthquake Data Explorer](#earthquake-data-explorer)
   - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
   - [Description](#description)
   - [Features](#features)
     - [Prerequisites](#prerequisites)
+
+---
+
+## Overview
+
+
+![Project Architecture](/img/earthquake_data_explorer.png)
 
 ---
 
