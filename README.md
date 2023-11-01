@@ -14,7 +14,7 @@
   - [Overview](#overview)
   - [Description](#description)
   - [Features](#features)
-    - [Prerequisites](#prerequisites)
+  - [Prerequisites](#prerequisites)
 
 ---
 
